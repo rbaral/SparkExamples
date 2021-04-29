@@ -1,0 +1,16 @@
+https://github.com/jadianes/spark-py-notebooks
+
+
+https://spark.apache.org/docs/2.2.0/ml-collaborative-filtering.html
+
+https://www.kaggle.com/vchulski/tutorial-collaborative-filtering-with-pyspark
+
+
+Execute the following command to check the reco_server.py
+
+curl --data-binary @user_ratings.file http://localhost:5432/0/ratings
+
+
+http://localhost:5432/0/ratings/top/10
+
+http://localhost:5432/0/ratings/500
